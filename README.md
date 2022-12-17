@@ -4,7 +4,7 @@ Simple call to ChatGPT API using `4D.HTTPRequest`
 
 ## Usage
 
-You need an API Key, by loging to openai and create a new one or get on page https://beta.openai.com/account/api-keys
+You need an API Key, by loging to openai and get one here https://beta.openai.com/account/api-keys
 
 ```4d
 $chat:=cs.ChatGPT.new()

@@ -1,5 +1,8 @@
 # ChatGPT4D
 
+> [!WARNING]  
+> This project call old OpenAI endpoints. Do not use it. It's just an old proof of concept
+
 Simple call to ChatGPT API using `4D.HTTPRequest`
 
 ## Usage
